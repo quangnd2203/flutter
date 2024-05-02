@@ -63,6 +63,10 @@ you're building for iOS ([Cupertino]) or other platforms ([Material]), along wit
 support for customizing or creating entirely new visual components.
 
 <p align="center"><img src="https://github.com/flutter/website/blob/main/src/content/assets/images/docs/homepage/reflectly-hero-600px.png?raw=true" alt="Reflectly hero image"></p>
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/embed/6pLcrzsuiP4?si=K5aSmCJ2Ffzsja1Q" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pLcrzsuiP4?si=K5aSmCJ2Ffzsja1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Fast results
